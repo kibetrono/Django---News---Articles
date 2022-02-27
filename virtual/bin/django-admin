@@ -1,4 +1,6 @@
-#!/var/www/html/Core/Python-Django/The-Moringa-Tribune/virtual/bin/python
+#!/bin/sh
+'''exec' "/var/www/html/Core/Python-Django/Week 1/Mon/The-Moringa-Tribune/virtual/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

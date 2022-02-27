@@ -10,7 +10,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV '/var/www/html/Core/Python-Django/The-Moringa-Tribune/virtual'
+setenv VIRTUAL_ENV '/var/www/html/Core/Python-Django/Week 1/Mon/The-Moringa-Tribune/virtual'
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"
