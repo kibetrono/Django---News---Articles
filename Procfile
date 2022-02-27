@@ -1,2 +1,2 @@
-web: gunicorn tribune.wsgi --log-file -
+web: gunicorn kibettribune.wsgi --log-file -
 
