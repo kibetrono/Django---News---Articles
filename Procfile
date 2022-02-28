@@ -1,2 +1,4 @@
-web: gunicorn kibettribune.wsgi --log-file -
+web: gunicorn tribune.wsgi --log-file -
 
+python manage.py collectstatic --noinput
+manage.py migrate
